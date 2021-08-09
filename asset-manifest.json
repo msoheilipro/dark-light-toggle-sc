@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dark-light-toggle-sc/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dark-light-toggle-sc/static/js/main.9a6e1d10.chunk.js",
+    "main.js.map": "/dark-light-toggle-sc/static/js/main.9a6e1d10.chunk.js.map",
+    "runtime-main.js": "/dark-light-toggle-sc/static/js/runtime-main.aece8892.js",
+    "runtime-main.js.map": "/dark-light-toggle-sc/static/js/runtime-main.aece8892.js.map",
+    "static/js/2.1def648f.chunk.js": "/dark-light-toggle-sc/static/js/2.1def648f.chunk.js",
+    "static/js/2.1def648f.chunk.js.map": "/dark-light-toggle-sc/static/js/2.1def648f.chunk.js.map",
+    "index.html": "/dark-light-toggle-sc/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/dark-light-toggle-sc/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1def648f.chunk.js.LICENSE.txt": "/dark-light-toggle-sc/static/js/2.1def648f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aece8892.js",
+    "static/js/2.1def648f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9a6e1d10.chunk.js"
+  ]
+}
